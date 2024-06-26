@@ -4,6 +4,16 @@ import { Input } from "@/components/ui/input";
 import { Card, CardHeader, CardTitle, CardContent } from "@/components/ui/card";
 
 export default function Fiche({ data }) {
+    if (!data || !data.revisions) {
+      return (
+        <Card>
+          <CardContent>
+            <p>No data available. Please ensure the data is properly loaded.</p>
+          </CardContent>
+        </Card>
+      );
+    }
+    
   const [selectedMatiere, setSelectedMatiere] = useState(null);
   const [selectedChapitre, setSelectedChapitre] = useState(null);
   const [selectedFiche, setSelectedFiche] = useState(null);

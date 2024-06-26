@@ -2,7 +2,17 @@ import { useState } from 'react';
 import { Button } from "@/components/ui/button";
 import { Card, CardHeader, CardTitle, CardContent } from "@/components/ui/card";
 
-export default function Annales({ data }) {
+export default function Fiche({ data }) {
+    if (!data || !data.revisions) {
+      return (
+        <Card>
+          <CardContent>
+            <p>No data available. Please ensure the data is properly loaded.</p>
+          </CardContent>
+        </Card>
+      );
+    }  
+
   const [selectedMatiere, setSelectedMatiere] = useState(null);
 
   const handleMatiereSelect = (matiere) => {
