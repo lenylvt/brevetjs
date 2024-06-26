@@ -93,7 +93,7 @@ export default function Fiche({ data }) {
       <div>
         <Button onClick={handleBack} variant="outline" className="mb-4">Retour</Button>
         <h2 className="text-2xl mb-4">{data.annales[selectedMatiere].original}</h2>
-        <Button onClick={getRandomSujet} variant="outline" className="mb-4 w-full text-lg py-4">✨ Choisir automatiquement un Sujet Aléatoire</Button>
+        <Button onClick={getRandomSujet} variant="outline" className="mb-4 w-full text-lg py-4">✨ Sujet Aléatoire</Button>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
           {Object.keys(filesByYear).map(year => (
             <Card key={year} className="p-4">
