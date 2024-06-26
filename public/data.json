@@ -1,0 +1,242 @@
+{
+    "revisions": {
+        "Francais": {
+            "Chapitre 01 - Se chercher, se construire – Se raconter se représenter": [
+                "Lautobiographie___raconter_le_monde.jpg",
+                "Lautobiographie___se_raconter.jpg",
+                "Lautoportrait.jpg"
+            ],
+            "Chapitre 02 - Vivre en société, participer à la société – Dénoncer les travers de la société": [
+                "La_satire___une_arme.jpg",
+                "Les_formes_de_satire.jpg"
+            ],
+            "Chapitre 03 - Regarder le monde, inventer des mondes – Visions poétiques du monde": [
+                "Le_poète_métamorphose_le_monde.jpg",
+                "Le_regard_du_poète_sur_le_monde.jpg"
+            ],
+            "Chapitre 04 - Agir sur le monde – Agir dans la cité  individu et pouvoir": [
+                "La_littérature_témoin_de_lHistoire.jpg",
+                "Lart_comme_outil_de_dénonciation_des_horreurs_de_la_guerre.jpg"
+            ],
+            "Chapitre 05 - Questionnements complémentaires – Progrès et rêves scientifiques": [
+                "La_science_source_de_désillusion_et_dinquiétudes.jpg",
+                "La_science_source_despoirs_et_dexaltation.jpg"
+            ],
+            "Chapitre 06 - Outils d'analyse littéraire": [
+                "Construire_une_argumentation.jpg",
+                "Le_vocabulaire_de_la_poésie.jpg",
+                "Le_vocabulaire_du_théâtre.jpg",
+                "Les_différences_de_focalisation_dans_un_texte.jpg",
+                "Les_différents_types_de_discours.jpg",
+                "Les_principales_figures_de_style.jpg",
+                "Les_valeurs_du_présent_du_passé_simple_de_limparfait_et_du_futur.jpg"
+            ],
+            "En +": [
+                "Definition.md",
+                "Definition.txt"
+            ]
+        },
+        "Géographie": {
+            "Carte": [
+                "LUnion_européenne_en_2022.png",
+                "LUnion_européenne_un_pôle_majeur_du_commerce_mondial.png",
+                "La_densité_de_population_en_France_métropolitaine.png",
+                "La_France_dans_le_monde.png",
+                "La_région___territoire_de_vie_territoire_aménagé.png",
+                "Les_dix_premières_aires_urbaines_de_France.png",
+                "Les_espaces_agricoles_en_France.png",
+                "Les_espaces_industriels_en_France.png",
+                "Les_espaces_productifs_français_face_à_la_mondialisation.png",
+                "Les_flux_touristiques_mondiaux.png",
+                "Les_élargissements_successifs_de_lUE.png",
+                "Potentialités_et_contraintes_du_territoire_français.png",
+                "Une_inégale_répartition_de_la_population_mondiale.png"
+            ],
+            "Chapitre 01 - Dynamique territoriales de la France contemporaine": [
+                "Les_aires_urbaines_en_France.jpg",
+                "Les_espaces_de_faible_densité.jpg",
+                "Les_espaces_productifs___la_France_agricole.jpg",
+                "Les_espaces_productifs___la_France_des_services.jpg",
+                "Les_espaces_productifs___la_France_industrielle.jpg"
+            ],
+            "Chapitre 02 - Pourquoi et comment aménager le territoire": [
+                "Laménagement_comme_réponse_aux_inégalités_territoriales.jpg",
+                "LEurope_dans_le_monde.jpg",
+                "LUnion_européenne___un_territoire_en_construction.jpg",
+                "La_France_dans_lUnion_européenne.jpg",
+                "La_politique_de_la_ville.jpg",
+                "Les_contrastes_territoriaux_à_lintérieur_de_lUnion_européenne.jpg",
+                "Les_territoires_ultra_marins_français.jpg"
+            ],
+            "En +": [
+                "Definition.md",
+                "Definition.txt"
+            ]
+        },
+        "Histoire": {
+            "Chapitre 01 - L'Europe, un théâtre majeur des guerres totales (1914-1945)": [
+                "La_France_de_Vichy_(1940_1944).jpg",
+                "La_France_durant_lentre_deux_guerres.jpg",
+                "La_Première_Guerre_mondiale___vers_une_guerre_totale.jpg",
+                "La_Seconde_Guerre_mondiale___une_guerre_danéantissement.jpg",
+                "Les_régimes_totalitaires_dans_les_années_1930.jpg"
+            ],
+            "Chapitre 02 - Le monde depuis 1945": [
+                "La_construction_européenne.jpg",
+                "La_décolonisation.jpg",
+                "La_géopolitique_du_monde_actuel.jpg",
+                "Le_monde_durant_la_guerre_froide_(1947_1962).jpg",
+                "Le_monde_durant_la_guerre_froide_(1963_1991).jpg"
+            ],
+            "Chapitre 03 - Françaises et Français dans une République repensée": [
+                "1944_1947___refonder_la_République_redéfinir_la_démocratie.jpg",
+                "La_Ve_République_à_lépreuve_de_la_durée_(1958_2012).jpg",
+                "Les_années_de_Gaulle_(1958_1969).jpg",
+                "Les_Trente_Glorieuses.jpg"
+            ],
+            "En +": [
+                "Definition.md",
+                "Definition.txt"
+            ]
+        },
+        "Mathematique": {
+            "Chapitre 01 - Nombres et calculs": [
+                "Definition.txt",
+                "Effectuer_des_calculs_numériques___puissances_dun_nombre.jpg",
+                "Inéquation_et_utilisation_du_calcul_littéral_pour_résoudre_et_démontrer.jpg",
+                "Nombres_premiers_et_fractions_irréductibles.jpg",
+                "Notations_scientifiques.jpg"
+            ],
+            "Chapitre 02 - Organisation et gestion de données – Fonctions": [
+                "Calculer_des_probabilités.jpg",
+                "Comprendre_et_utiliser_la_notion_de_fonction.jpg",
+                "Connaître_les_fonctions_affines.jpg",
+                "Les_caractéristiques_dune_série_statistique.jpg",
+                "Relier_proportionnalité_et_fonction_linéaire.jpg"
+            ],
+            "Chapitre 03 - Grandeurs et mesures": [
+                "Étudier_leffet_dun_agrandissement_et_dune_réduction.jpg"
+            ],
+            "Chapitre 04 - Espace et géométrie": [
+                "Homothéties.jpg",
+                "Sections_planes.jpg",
+                "Triangles_semblables.jpg",
+                "Utiliser_la_trigonométrie_du_triangle_rectangle.jpg",
+                "Utiliser_le_théorème_de_Thalès_et_sa_réciproque.jpg"
+            ]
+        },
+        "Physique-chimie": {
+            "Chapitre 1 - Les états de la matière": [
+                "La_composition_de_lair.jpg",
+                "La_masse_volumique.jpg",
+                "La_miscibilité_et_la_solubilité.jpg",
+                "Les_changements_détat_de_leau.jpg",
+                "Les_états_de_la_matière.jpg",
+                "Mélanges_et_corps_purs.jpg"
+            ],
+            "Chapitre 2 - Les transformations chimiques": [
+                "Le_pH_ou_potentiel_hydrogène.jpg",
+                "Les_atomes_et_la_transformation_chimique.jpg",
+                "Les_ions.jpg",
+                "Les_réactions_aux_solutions_acides.jpg",
+                "Les_tests_caractéristiques_des_espèces_chimiques.jpg"
+            ],
+            "Chapitre 3 - L'organisation de la matière dans l'Univers": [
+                "LUnivers_et_le_Système_solaire.jpg",
+                "La_continuité_de_la_matière_dans_lUnivers.jpg",
+                "Les_constituants_de_latome.jpg"
+            ],
+            "Chapitre 4 - Mouvements et interactions": [
+                "Interactions_et_forces.jpg",
+                "Les_mouvements.jpg",
+                "Poids_et_gravitation.jpg"
+            ],
+            "Chapitre 5 - L'énergie": [
+                "Calculer_la_vitesse_et_lénergie_cinétique.jpg",
+                "Conservation_et_pertes_dénergie.jpg",
+                "Les_différentes_formes_dénergie.jpg",
+                "Transferts_et_conversions_dénergie.jpg"
+            ],
+            "Chapitre 6 - Les circuits électriques": [
+                "Lintensité_électrique.jpg",
+                "La_résistance_électrique.jpg",
+                "La_tension_électrique.jpg",
+                "Le_courant_électrique.jpg",
+                "Les_montages_électriques.jpg",
+                "Puissance_et_énergie_électrique.jpg"
+            ],
+            "Chapitre 7 - Les signaux": [
+                "La_lumière.jpg",
+                "Le_son.jpg",
+                "Les_signaux_sonores.jpg",
+                "Signal_et_information.jpg"
+            ]
+        }
+    },
+    "annales": {
+        "Francais": [
+            "2015_Corrigé.pdf",
+            "2015.pdf",
+            "2016_Corrigé.pdf",
+            "2016.pdf",
+            "2017_Corrigé.pdf",
+            "2017.pdf",
+            "2018_Corrigé.pdf",
+            "2018.pdf",
+            "2019_Corrigé.pdf",
+            "2019.pdf",
+            "2021_Corrigé.pdf",
+            "2021.pdf",
+            "2022_Corrigé.pdf",
+            "2022.pdf",
+            "2023_Corrigé.pdf",
+            "2023.pdf"
+        ],
+        "Histoire-Géographie-EMC": [
+            "2015_Corrigé.pdf",
+            "2015.pdf",
+            "2016_Corrigé.pdf",
+            "2016.pdf",
+            "2017_Corrigé.pdf",
+            "2017.pdf",
+            "2018_Corrigé.pdf",
+            "2018.pdf",
+            "2019_Corrigé.pdf",
+            "2019.pdf",
+            "2021_Corrigé.pdf",
+            "2021.pdf",
+            "2022_Corrigé.pdf",
+            "2022.pdf",
+            "2023_Corrigé.pdf",
+            "2023.pdf"
+        ],
+        "Mathematique": [
+            "2015_Corrigé.pdf",
+            "2015.pdf",
+            "2016_Corrigé.pdf",
+            "2016.pdf",
+            "2017_Corrigé.pdf",
+            "2017.pdf",
+            "2018_Corrigé.pdf",
+            "2018.pdf",
+            "2019_Corrigé.pdf",
+            "2019.pdf",
+            "2021_Corrigé.pdf",
+            "2021.pdf",
+            "2022_Corrigé.pdf",
+            "2022.pdf",
+            "2023_Corrigé.pdf",
+            "2023.pdf"
+        ],
+        "Science": [
+            "2017_Corrigé.pdf",
+            "2017.pdf",
+            "2021_Corrigé.pdf",
+            "2021.pdf",
+            "2022_Corrigé.pdf",
+            "2022.pdf",
+            "2023_Corrigé.pdf",
+            "2023.pdf"
+        ]
+    }
+}
