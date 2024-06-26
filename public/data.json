@@ -1,242 +1,838 @@
 {
     "revisions": {
         "Francais": {
-            "Chapitre 01 - Se chercher, se construire – Se raconter se représenter": [
-                "Lautobiographie___raconter_le_monde.jpg",
-                "Lautobiographie___se_raconter.jpg",
-                "Lautoportrait.jpg"
-            ],
-            "Chapitre 02 - Vivre en société, participer à la société – Dénoncer les travers de la société": [
-                "La_satire___une_arme.jpg",
-                "Les_formes_de_satire.jpg"
-            ],
-            "Chapitre 03 - Regarder le monde, inventer des mondes – Visions poétiques du monde": [
-                "Le_poète_métamorphose_le_monde.jpg",
-                "Le_regard_du_poète_sur_le_monde.jpg"
-            ],
-            "Chapitre 04 - Agir sur le monde – Agir dans la cité  individu et pouvoir": [
-                "La_littérature_témoin_de_lHistoire.jpg",
-                "Lart_comme_outil_de_dénonciation_des_horreurs_de_la_guerre.jpg"
-            ],
-            "Chapitre 05 - Questionnements complémentaires – Progrès et rêves scientifiques": [
-                "La_science_source_de_désillusion_et_dinquiétudes.jpg",
-                "La_science_source_despoirs_et_dexaltation.jpg"
-            ],
-            "Chapitre 06 - Outils d'analyse littéraire": [
-                "Construire_une_argumentation.jpg",
-                "Le_vocabulaire_de_la_poésie.jpg",
-                "Le_vocabulaire_du_théâtre.jpg",
-                "Les_différences_de_focalisation_dans_un_texte.jpg",
-                "Les_différents_types_de_discours.jpg",
-                "Les_principales_figures_de_style.jpg",
-                "Les_valeurs_du_présent_du_passé_simple_de_limparfait_et_du_futur.jpg"
-            ],
-            "En +": [
-                "Definition.md",
-                "Definition.txt"
-            ]
+            "original": "Francais",
+            "new": "Francais",
+            "chapters": {
+                "Chapitre_01___Se_chercher_se_construire___Se_raconter_se_représenter": {
+                    "original": "Chapitre 01 - Se chercher, se construire – Se raconter se représenter",
+                    "new": "Chapitre_01___Se_chercher_se_construire___Se_raconter_se_représenter",
+                    "files": [
+                        {
+                            "original": "L'autobiographie - raconter le monde.jpg",
+                            "new": "Lautobiographie___raconter_le_monde.jpg"
+                        },
+                        {
+                            "original": "L’autobiographie - se raconter.jpg",
+                            "new": "Lautobiographie___se_raconter.jpg"
+                        },
+                        {
+                            "original": "L’autoportrait.jpg",
+                            "new": "Lautoportrait.jpg"
+                        }
+                    ]
+                },
+                "Chapitre_02___Vivre_en_société_participer_à_la_société___Dénoncer_les_travers_de_la_société": {
+                    "original": "Chapitre 02 - Vivre en société, participer à la société – Dénoncer les travers de la société",
+                    "new": "Chapitre_02___Vivre_en_société_participer_à_la_société___Dénoncer_les_travers_de_la_société",
+                    "files": [
+                        {
+                            "original": "La satire - une arme.jpg",
+                            "new": "La_satire___une_arme.jpg"
+                        },
+                        {
+                            "original": "Les formes de satire.jpg",
+                            "new": "Les_formes_de_satire.jpg"
+                        }
+                    ]
+                },
+                "Chapitre_03___Regarder_le_monde_inventer_des_mondes___Visions_poétiques_du_monde": {
+                    "original": "Chapitre 03 - Regarder le monde, inventer des mondes – Visions poétiques du monde",
+                    "new": "Chapitre_03___Regarder_le_monde_inventer_des_mondes___Visions_poétiques_du_monde",
+                    "files": [
+                        {
+                            "original": "Le poète métamorphose le monde.jpg",
+                            "new": "Le_poète_métamorphose_le_monde.jpg"
+                        },
+                        {
+                            "original": "Le regard du poète sur le monde.jpg",
+                            "new": "Le_regard_du_poète_sur_le_monde.jpg"
+                        }
+                    ]
+                },
+                "Chapitre_04___Agir_sur_le_monde___Agir_dans_la_cité__individu_et_pouvoir": {
+                    "original": "Chapitre 04 - Agir sur le monde – Agir dans la cité  individu et pouvoir",
+                    "new": "Chapitre_04___Agir_sur_le_monde___Agir_dans_la_cité__individu_et_pouvoir",
+                    "files": [
+                        {
+                            "original": "La littérature témoin de l’Histoire.jpg",
+                            "new": "La_littérature_témoin_de_lHistoire.jpg"
+                        },
+                        {
+                            "original": "L’art comme outil de dénonciation des horreurs de la guerre.jpg",
+                            "new": "Lart_comme_outil_de_dénonciation_des_horreurs_de_la_guerre.jpg"
+                        }
+                    ]
+                },
+                "Chapitre_05___Questionnements_complémentaires___Progrès_et_rêves_scientifiques": {
+                    "original": "Chapitre 05 - Questionnements complémentaires – Progrès et rêves scientifiques",
+                    "new": "Chapitre_05___Questionnements_complémentaires___Progrès_et_rêves_scientifiques",
+                    "files": [
+                        {
+                            "original": "La science, source de désillusion et d’inquiétudes.jpg",
+                            "new": "La_science_source_de_désillusion_et_dinquiétudes.jpg"
+                        },
+                        {
+                            "original": "La science, source d’espoirs et d’exaltation.jpg",
+                            "new": "La_science_source_despoirs_et_dexaltation.jpg"
+                        }
+                    ]
+                },
+                "Chapitre_06___Outils_danalyse_littéraire": {
+                    "original": "Chapitre 06 - Outils d'analyse littéraire",
+                    "new": "Chapitre_06___Outils_danalyse_littéraire",
+                    "files": [
+                        {
+                            "original": "Construire une argumentation.jpg",
+                            "new": "Construire_une_argumentation.jpg"
+                        },
+                        {
+                            "original": "Le vocabulaire de la poésie.jpg",
+                            "new": "Le_vocabulaire_de_la_poésie.jpg"
+                        },
+                        {
+                            "original": "Le vocabulaire du théâtre.jpg",
+                            "new": "Le_vocabulaire_du_théâtre.jpg"
+                        },
+                        {
+                            "original": "Les différences de focalisation dans un texte.jpg",
+                            "new": "Les_différences_de_focalisation_dans_un_texte.jpg"
+                        },
+                        {
+                            "original": "Les différents types de discours.jpg",
+                            "new": "Les_différents_types_de_discours.jpg"
+                        },
+                        {
+                            "original": "Les principales figures de style.jpg",
+                            "new": "Les_principales_figures_de_style.jpg"
+                        },
+                        {
+                            "original": "Les valeurs du présent, du passé simple, de l'imparfait et du futur.jpg",
+                            "new": "Les_valeurs_du_présent_du_passé_simple_de_limparfait_et_du_futur.jpg"
+                        }
+                    ]
+                }
+            }
         },
         "Géographie": {
-            "Carte": [
-                "LUnion_européenne_en_2022.png",
-                "LUnion_européenne_un_pôle_majeur_du_commerce_mondial.png",
-                "La_densité_de_population_en_France_métropolitaine.png",
-                "La_France_dans_le_monde.png",
-                "La_région___territoire_de_vie_territoire_aménagé.png",
-                "Les_dix_premières_aires_urbaines_de_France.png",
-                "Les_espaces_agricoles_en_France.png",
-                "Les_espaces_industriels_en_France.png",
-                "Les_espaces_productifs_français_face_à_la_mondialisation.png",
-                "Les_flux_touristiques_mondiaux.png",
-                "Les_élargissements_successifs_de_lUE.png",
-                "Potentialités_et_contraintes_du_territoire_français.png",
-                "Une_inégale_répartition_de_la_population_mondiale.png"
-            ],
-            "Chapitre 01 - Dynamique territoriales de la France contemporaine": [
-                "Les_aires_urbaines_en_France.jpg",
-                "Les_espaces_de_faible_densité.jpg",
-                "Les_espaces_productifs___la_France_agricole.jpg",
-                "Les_espaces_productifs___la_France_des_services.jpg",
-                "Les_espaces_productifs___la_France_industrielle.jpg"
-            ],
-            "Chapitre 02 - Pourquoi et comment aménager le territoire": [
-                "Laménagement_comme_réponse_aux_inégalités_territoriales.jpg",
-                "LEurope_dans_le_monde.jpg",
-                "LUnion_européenne___un_territoire_en_construction.jpg",
-                "La_France_dans_lUnion_européenne.jpg",
-                "La_politique_de_la_ville.jpg",
-                "Les_contrastes_territoriaux_à_lintérieur_de_lUnion_européenne.jpg",
-                "Les_territoires_ultra_marins_français.jpg"
-            ],
-            "En +": [
-                "Definition.md",
-                "Definition.txt"
-            ]
+            "original": "Géographie",
+            "new": "Géographie",
+            "chapters": {
+                "Carte": {
+                    "original": "Carte",
+                    "new": "Carte",
+                    "files": [
+                        {
+                            "original": "L'Union européenne en 2022.png",
+                            "new": "LUnion_européenne_en_2022.png"
+                        },
+                        {
+                            "original": "L'Union européenne, un pôle majeur du commerce mondial.png",
+                            "new": "LUnion_européenne_un_pôle_majeur_du_commerce_mondial.png"
+                        },
+                        {
+                            "original": "La densité de population en France métropolitaine.png",
+                            "new": "La_densité_de_population_en_France_métropolitaine.png"
+                        },
+                        {
+                            "original": "La France dans le monde.png",
+                            "new": "La_France_dans_le_monde.png"
+                        },
+                        {
+                            "original": "La région - territoire de vie, territoire aménagé.png",
+                            "new": "La_région___territoire_de_vie_territoire_aménagé.png"
+                        },
+                        {
+                            "original": "Les dix premières aires urbaines de France.png",
+                            "new": "Les_dix_premières_aires_urbaines_de_France.png"
+                        },
+                        {
+                            "original": "Les espaces agricoles en France.png",
+                            "new": "Les_espaces_agricoles_en_France.png"
+                        },
+                        {
+                            "original": "Les espaces industriels en France.png",
+                            "new": "Les_espaces_industriels_en_France.png"
+                        },
+                        {
+                            "original": "Les espaces productifs français face à la mondialisation.png",
+                            "new": "Les_espaces_productifs_français_face_à_la_mondialisation.png"
+                        },
+                        {
+                            "original": "Les flux touristiques mondiaux.png",
+                            "new": "Les_flux_touristiques_mondiaux.png"
+                        },
+                        {
+                            "original": "Les élargissements successifs de l'UE.png",
+                            "new": "Les_élargissements_successifs_de_lUE.png"
+                        },
+                        {
+                            "original": "Potentialités et contraintes du territoire français.png",
+                            "new": "Potentialités_et_contraintes_du_territoire_français.png"
+                        },
+                        {
+                            "original": "Une inégale répartition de la population mondiale.png",
+                            "new": "Une_inégale_répartition_de_la_population_mondiale.png"
+                        }
+                    ]
+                },
+                "Chapitre_01___Dynamique_territoriales_de_la_France_contemporaine": {
+                    "original": "Chapitre 01 - Dynamique territoriales de la France contemporaine",
+                    "new": "Chapitre_01___Dynamique_territoriales_de_la_France_contemporaine",
+                    "files": [
+                        {
+                            "original": "Les aires urbaines en France.jpg",
+                            "new": "Les_aires_urbaines_en_France.jpg"
+                        },
+                        {
+                            "original": "Les espaces de faible densité.jpg",
+                            "new": "Les_espaces_de_faible_densité.jpg"
+                        },
+                        {
+                            "original": "Les espaces productifs - la France agricole.jpg",
+                            "new": "Les_espaces_productifs___la_France_agricole.jpg"
+                        },
+                        {
+                            "original": "Les espaces productifs - la France des services.jpg",
+                            "new": "Les_espaces_productifs___la_France_des_services.jpg"
+                        },
+                        {
+                            "original": "Les espaces productifs - la France industrielle.jpg",
+                            "new": "Les_espaces_productifs___la_France_industrielle.jpg"
+                        }
+                    ]
+                },
+                "Chapitre_02___Pourquoi_et_comment_aménager_le_territoire": {
+                    "original": "Chapitre 02 - Pourquoi et comment aménager le territoire",
+                    "new": "Chapitre_02___Pourquoi_et_comment_aménager_le_territoire",
+                    "files": [
+                        {
+                            "original": "L'aménagement comme réponse aux inégalités territoriales.jpg",
+                            "new": "Laménagement_comme_réponse_aux_inégalités_territoriales.jpg"
+                        },
+                        {
+                            "original": "L'Europe dans le monde.jpg",
+                            "new": "LEurope_dans_le_monde.jpg"
+                        },
+                        {
+                            "original": "L'Union européenne - un territoire en construction.jpg",
+                            "new": "LUnion_européenne___un_territoire_en_construction.jpg"
+                        },
+                        {
+                            "original": "La France dans l'Union européenne.jpg",
+                            "new": "La_France_dans_lUnion_européenne.jpg"
+                        },
+                        {
+                            "original": "La politique de la ville.jpg",
+                            "new": "La_politique_de_la_ville.jpg"
+                        },
+                        {
+                            "original": "Les contrastes territoriaux à l’intérieur de l’Union européenne.jpg",
+                            "new": "Les_contrastes_territoriaux_à_lintérieur_de_lUnion_européenne.jpg"
+                        },
+                        {
+                            "original": "Les territoires ultra-marins français.jpg",
+                            "new": "Les_territoires_ultra_marins_français.jpg"
+                        }
+                    ]
+                }
+            }
         },
         "Histoire": {
-            "Chapitre 01 - L'Europe, un théâtre majeur des guerres totales (1914-1945)": [
-                "La_France_de_Vichy_(1940_1944).jpg",
-                "La_France_durant_lentre_deux_guerres.jpg",
-                "La_Première_Guerre_mondiale___vers_une_guerre_totale.jpg",
-                "La_Seconde_Guerre_mondiale___une_guerre_danéantissement.jpg",
-                "Les_régimes_totalitaires_dans_les_années_1930.jpg"
-            ],
-            "Chapitre 02 - Le monde depuis 1945": [
-                "La_construction_européenne.jpg",
-                "La_décolonisation.jpg",
-                "La_géopolitique_du_monde_actuel.jpg",
-                "Le_monde_durant_la_guerre_froide_(1947_1962).jpg",
-                "Le_monde_durant_la_guerre_froide_(1963_1991).jpg"
-            ],
-            "Chapitre 03 - Françaises et Français dans une République repensée": [
-                "1944_1947___refonder_la_République_redéfinir_la_démocratie.jpg",
-                "La_Ve_République_à_lépreuve_de_la_durée_(1958_2012).jpg",
-                "Les_années_de_Gaulle_(1958_1969).jpg",
-                "Les_Trente_Glorieuses.jpg"
-            ],
-            "En +": [
-                "Definition.md",
-                "Definition.txt"
-            ]
+            "original": "Histoire",
+            "new": "Histoire",
+            "chapters": {
+                "Chapitre_01___LEurope_un_théâtre_majeur_des_guerres_totales_(1914_1945)": {
+                    "original": "Chapitre 01 - L'Europe, un théâtre majeur des guerres totales (1914-1945)",
+                    "new": "Chapitre_01___LEurope_un_théâtre_majeur_des_guerres_totales_(1914_1945)",
+                    "files": [
+                        {
+                            "original": "La France de Vichy (1940-1944).jpg",
+                            "new": "La_France_de_Vichy_(1940_1944).jpg"
+                        },
+                        {
+                            "original": "La France durant l'entre-deux guerres.jpg",
+                            "new": "La_France_durant_lentre_deux_guerres.jpg"
+                        },
+                        {
+                            "original": "La Première Guerre mondiale - vers une guerre totale.jpg",
+                            "new": "La_Première_Guerre_mondiale___vers_une_guerre_totale.jpg"
+                        },
+                        {
+                            "original": "La Seconde Guerre mondiale - une guerre d’anéantissement.jpg",
+                            "new": "La_Seconde_Guerre_mondiale___une_guerre_danéantissement.jpg"
+                        },
+                        {
+                            "original": "Les régimes totalitaires dans les années 1930.jpg",
+                            "new": "Les_régimes_totalitaires_dans_les_années_1930.jpg"
+                        }
+                    ]
+                },
+                "Chapitre_02___Le_monde_depuis_1945": {
+                    "original": "Chapitre 02 - Le monde depuis 1945",
+                    "new": "Chapitre_02___Le_monde_depuis_1945",
+                    "files": [
+                        {
+                            "original": "La construction européenne.jpg",
+                            "new": "La_construction_européenne.jpg"
+                        },
+                        {
+                            "original": "La décolonisation.jpg",
+                            "new": "La_décolonisation.jpg"
+                        },
+                        {
+                            "original": "La géopolitique du monde actuel.jpg",
+                            "new": "La_géopolitique_du_monde_actuel.jpg"
+                        },
+                        {
+                            "original": "Le monde durant la guerre froide (1947-1962).jpg",
+                            "new": "Le_monde_durant_la_guerre_froide_(1947_1962).jpg"
+                        },
+                        {
+                            "original": "Le monde durant la guerre froide (1963-1991).jpg",
+                            "new": "Le_monde_durant_la_guerre_froide_(1963_1991).jpg"
+                        }
+                    ]
+                },
+                "Chapitre_03___Françaises_et_Français_dans_une_République_repensée": {
+                    "original": "Chapitre 03 - Françaises et Français dans une République repensée",
+                    "new": "Chapitre_03___Françaises_et_Français_dans_une_République_repensée",
+                    "files": [
+                        {
+                            "original": "1944-1947 - refonder la République, redéfinir la démocratie.jpg",
+                            "new": "1944_1947___refonder_la_République_redéfinir_la_démocratie.jpg"
+                        },
+                        {
+                            "original": "La Ve République à l'épreuve de la durée (1958-2012).jpg",
+                            "new": "La_Ve_République_à_lépreuve_de_la_durée_(1958_2012).jpg"
+                        },
+                        {
+                            "original": "Les années de Gaulle (1958-1969).jpg",
+                            "new": "Les_années_de_Gaulle_(1958_1969).jpg"
+                        },
+                        {
+                            "original": "Les Trente Glorieuses.jpg",
+                            "new": "Les_Trente_Glorieuses.jpg"
+                        }
+                    ]
+                }
+            }
         },
         "Mathematique": {
-            "Chapitre 01 - Nombres et calculs": [
-                "Definition.txt",
-                "Effectuer_des_calculs_numériques___puissances_dun_nombre.jpg",
-                "Inéquation_et_utilisation_du_calcul_littéral_pour_résoudre_et_démontrer.jpg",
-                "Nombres_premiers_et_fractions_irréductibles.jpg",
-                "Notations_scientifiques.jpg"
-            ],
-            "Chapitre 02 - Organisation et gestion de données – Fonctions": [
-                "Calculer_des_probabilités.jpg",
-                "Comprendre_et_utiliser_la_notion_de_fonction.jpg",
-                "Connaître_les_fonctions_affines.jpg",
-                "Les_caractéristiques_dune_série_statistique.jpg",
-                "Relier_proportionnalité_et_fonction_linéaire.jpg"
-            ],
-            "Chapitre 03 - Grandeurs et mesures": [
-                "Étudier_leffet_dun_agrandissement_et_dune_réduction.jpg"
-            ],
-            "Chapitre 04 - Espace et géométrie": [
-                "Homothéties.jpg",
-                "Sections_planes.jpg",
-                "Triangles_semblables.jpg",
-                "Utiliser_la_trigonométrie_du_triangle_rectangle.jpg",
-                "Utiliser_le_théorème_de_Thalès_et_sa_réciproque.jpg"
-            ]
+            "original": "Mathematique",
+            "new": "Mathematique",
+            "chapters": {
+                "Chapitre_01___Nombres_et_calculs": {
+                    "original": "Chapitre 01 - Nombres et calculs",
+                    "new": "Chapitre_01___Nombres_et_calculs",
+                    "files": [
+                        {
+                            "original": "Definition.txt",
+                            "new": "Definition.txt"
+                        },
+                        {
+                            "original": "Effectuer des calculs numériques - puissances d'un nombre.jpg",
+                            "new": "Effectuer_des_calculs_numériques___puissances_dun_nombre.jpg"
+                        },
+                        {
+                            "original": "Inéquation et utilisation du calcul littéral pour résoudre et démontrer.jpg",
+                            "new": "Inéquation_et_utilisation_du_calcul_littéral_pour_résoudre_et_démontrer.jpg"
+                        },
+                        {
+                            "original": "Nombres premiers et fractions irréductibles.jpg",
+                            "new": "Nombres_premiers_et_fractions_irréductibles.jpg"
+                        },
+                        {
+                            "original": "Notations scientifiques.jpg",
+                            "new": "Notations_scientifiques.jpg"
+                        }
+                    ]
+                },
+                "Chapitre_02___Organisation_et_gestion_de_données___Fonctions": {
+                    "original": "Chapitre 02 - Organisation et gestion de données – Fonctions",
+                    "new": "Chapitre_02___Organisation_et_gestion_de_données___Fonctions",
+                    "files": [
+                        {
+                            "original": "Calculer des probabilités.jpg",
+                            "new": "Calculer_des_probabilités.jpg"
+                        },
+                        {
+                            "original": "Comprendre et utiliser la notion de fonction.jpg",
+                            "new": "Comprendre_et_utiliser_la_notion_de_fonction.jpg"
+                        },
+                        {
+                            "original": "Connaître les fonctions affines.jpg",
+                            "new": "Connaître_les_fonctions_affines.jpg"
+                        },
+                        {
+                            "original": "Les caractéristiques d'une série statistique.jpg",
+                            "new": "Les_caractéristiques_dune_série_statistique.jpg"
+                        },
+                        {
+                            "original": "Relier proportionnalité et fonction linéaire.jpg",
+                            "new": "Relier_proportionnalité_et_fonction_linéaire.jpg"
+                        }
+                    ]
+                },
+                "Chapitre_03___Grandeurs_et_mesures": {
+                    "original": "Chapitre 03 - Grandeurs et mesures",
+                    "new": "Chapitre_03___Grandeurs_et_mesures",
+                    "files": [
+                        {
+                            "original": "Étudier l’effet d’un agrandissement et d'une réduction.jpg",
+                            "new": "Étudier_leffet_dun_agrandissement_et_dune_réduction.jpg"
+                        }
+                    ]
+                },
+                "Chapitre_04___Espace_et_géométrie": {
+                    "original": "Chapitre 04 - Espace et géométrie",
+                    "new": "Chapitre_04___Espace_et_géométrie",
+                    "files": [
+                        {
+                            "original": "Homothéties.jpg",
+                            "new": "Homothéties.jpg"
+                        },
+                        {
+                            "original": "Sections planes.jpg",
+                            "new": "Sections_planes.jpg"
+                        },
+                        {
+                            "original": "Triangles semblables.jpg",
+                            "new": "Triangles_semblables.jpg"
+                        },
+                        {
+                            "original": "Utiliser la trigonométrie du triangle rectangle.jpg",
+                            "new": "Utiliser_la_trigonométrie_du_triangle_rectangle.jpg"
+                        },
+                        {
+                            "original": "Utiliser le théorème de Thalès et sa réciproque.jpg",
+                            "new": "Utiliser_le_théorème_de_Thalès_et_sa_réciproque.jpg"
+                        }
+                    ]
+                }
+            }
         },
-        "Physique-chimie": {
-            "Chapitre 1 - Les états de la matière": [
-                "La_composition_de_lair.jpg",
-                "La_masse_volumique.jpg",
-                "La_miscibilité_et_la_solubilité.jpg",
-                "Les_changements_détat_de_leau.jpg",
-                "Les_états_de_la_matière.jpg",
-                "Mélanges_et_corps_purs.jpg"
-            ],
-            "Chapitre 2 - Les transformations chimiques": [
-                "Le_pH_ou_potentiel_hydrogène.jpg",
-                "Les_atomes_et_la_transformation_chimique.jpg",
-                "Les_ions.jpg",
-                "Les_réactions_aux_solutions_acides.jpg",
-                "Les_tests_caractéristiques_des_espèces_chimiques.jpg"
-            ],
-            "Chapitre 3 - L'organisation de la matière dans l'Univers": [
-                "LUnivers_et_le_Système_solaire.jpg",
-                "La_continuité_de_la_matière_dans_lUnivers.jpg",
-                "Les_constituants_de_latome.jpg"
-            ],
-            "Chapitre 4 - Mouvements et interactions": [
-                "Interactions_et_forces.jpg",
-                "Les_mouvements.jpg",
-                "Poids_et_gravitation.jpg"
-            ],
-            "Chapitre 5 - L'énergie": [
-                "Calculer_la_vitesse_et_lénergie_cinétique.jpg",
-                "Conservation_et_pertes_dénergie.jpg",
-                "Les_différentes_formes_dénergie.jpg",
-                "Transferts_et_conversions_dénergie.jpg"
-            ],
-            "Chapitre 6 - Les circuits électriques": [
-                "Lintensité_électrique.jpg",
-                "La_résistance_électrique.jpg",
-                "La_tension_électrique.jpg",
-                "Le_courant_électrique.jpg",
-                "Les_montages_électriques.jpg",
-                "Puissance_et_énergie_électrique.jpg"
-            ],
-            "Chapitre 7 - Les signaux": [
-                "La_lumière.jpg",
-                "Le_son.jpg",
-                "Les_signaux_sonores.jpg",
-                "Signal_et_information.jpg"
-            ]
+        "Physique_chimie": {
+            "original": "Physique-chimie",
+            "new": "Physique_chimie",
+            "chapters": {
+                "Chapitre_1___Les_états_de_la_matière": {
+                    "original": "Chapitre 1 - Les états de la matière",
+                    "new": "Chapitre_1___Les_états_de_la_matière",
+                    "files": [
+                        {
+                            "original": "La composition de l'air.jpg",
+                            "new": "La_composition_de_lair.jpg"
+                        },
+                        {
+                            "original": "La masse volumique.jpg",
+                            "new": "La_masse_volumique.jpg"
+                        },
+                        {
+                            "original": "La miscibilité et la solubilité.jpg",
+                            "new": "La_miscibilité_et_la_solubilité.jpg"
+                        },
+                        {
+                            "original": "Les changements d'état de l'eau.jpg",
+                            "new": "Les_changements_détat_de_leau.jpg"
+                        },
+                        {
+                            "original": "Les états de la matière.jpg",
+                            "new": "Les_états_de_la_matière.jpg"
+                        },
+                        {
+                            "original": "Mélanges et corps purs.jpg",
+                            "new": "Mélanges_et_corps_purs.jpg"
+                        }
+                    ]
+                },
+                "Chapitre_2___Les_transformations_chimiques": {
+                    "original": "Chapitre 2 - Les transformations chimiques",
+                    "new": "Chapitre_2___Les_transformations_chimiques",
+                    "files": [
+                        {
+                            "original": "Le pH ou potentiel hydrogène.jpg",
+                            "new": "Le_pH_ou_potentiel_hydrogène.jpg"
+                        },
+                        {
+                            "original": "Les atomes et la transformation chimique.jpg",
+                            "new": "Les_atomes_et_la_transformation_chimique.jpg"
+                        },
+                        {
+                            "original": "Les ions.jpg",
+                            "new": "Les_ions.jpg"
+                        },
+                        {
+                            "original": "Les réactions aux solutions acides.jpg",
+                            "new": "Les_réactions_aux_solutions_acides.jpg"
+                        },
+                        {
+                            "original": "Les tests caractéristiques des espèces chimiques.jpg",
+                            "new": "Les_tests_caractéristiques_des_espèces_chimiques.jpg"
+                        }
+                    ]
+                },
+                "Chapitre_3___Lorganisation_de_la_matière_dans_lUnivers": {
+                    "original": "Chapitre 3 - L'organisation de la matière dans l'Univers",
+                    "new": "Chapitre_3___Lorganisation_de_la_matière_dans_lUnivers",
+                    "files": [
+                        {
+                            "original": "L'Univers et le Système solaire.jpg",
+                            "new": "LUnivers_et_le_Système_solaire.jpg"
+                        },
+                        {
+                            "original": "La continuité de la matière dans l'Univers.jpg",
+                            "new": "La_continuité_de_la_matière_dans_lUnivers.jpg"
+                        },
+                        {
+                            "original": "Les constituants de l'atome.jpg",
+                            "new": "Les_constituants_de_latome.jpg"
+                        }
+                    ]
+                },
+                "Chapitre_4___Mouvements_et_interactions": {
+                    "original": "Chapitre 4 - Mouvements et interactions",
+                    "new": "Chapitre_4___Mouvements_et_interactions",
+                    "files": [
+                        {
+                            "original": "Interactions et forces.jpg",
+                            "new": "Interactions_et_forces.jpg"
+                        },
+                        {
+                            "original": "Les mouvements.jpg",
+                            "new": "Les_mouvements.jpg"
+                        },
+                        {
+                            "original": "Poids et gravitation.jpg",
+                            "new": "Poids_et_gravitation.jpg"
+                        }
+                    ]
+                },
+                "Chapitre_5___Lénergie": {
+                    "original": "Chapitre 5 - L'énergie",
+                    "new": "Chapitre_5___Lénergie",
+                    "files": [
+                        {
+                            "original": "Calculer la vitesse et l'énergie cinétique.jpg",
+                            "new": "Calculer_la_vitesse_et_lénergie_cinétique.jpg"
+                        },
+                        {
+                            "original": "Conservation et pertes d'énergie.jpg",
+                            "new": "Conservation_et_pertes_dénergie.jpg"
+                        },
+                        {
+                            "original": "Les différentes formes d'énergie.jpg",
+                            "new": "Les_différentes_formes_dénergie.jpg"
+                        },
+                        {
+                            "original": "Transferts et conversions d'énergie.jpg",
+                            "new": "Transferts_et_conversions_dénergie.jpg"
+                        }
+                    ]
+                },
+                "Chapitre_6___Les_circuits_électriques": {
+                    "original": "Chapitre 6 - Les circuits électriques",
+                    "new": "Chapitre_6___Les_circuits_électriques",
+                    "files": [
+                        {
+                            "original": "L'intensité électrique.jpg",
+                            "new": "Lintensité_électrique.jpg"
+                        },
+                        {
+                            "original": "La résistance électrique.jpg",
+                            "new": "La_résistance_électrique.jpg"
+                        },
+                        {
+                            "original": "La tension électrique.jpg",
+                            "new": "La_tension_électrique.jpg"
+                        },
+                        {
+                            "original": "Le courant électrique.jpg",
+                            "new": "Le_courant_électrique.jpg"
+                        },
+                        {
+                            "original": "Les montages électriques.jpg",
+                            "new": "Les_montages_électriques.jpg"
+                        },
+                        {
+                            "original": "Puissance et énergie électrique.jpg",
+                            "new": "Puissance_et_énergie_électrique.jpg"
+                        }
+                    ]
+                },
+                "Chapitre_7___Les_signaux": {
+                    "original": "Chapitre 7 - Les signaux",
+                    "new": "Chapitre_7___Les_signaux",
+                    "files": [
+                        {
+                            "original": "La lumière.jpg",
+                            "new": "La_lumière.jpg"
+                        },
+                        {
+                            "original": "Le son.jpg",
+                            "new": "Le_son.jpg"
+                        },
+                        {
+                            "original": "Les signaux sonores.jpg",
+                            "new": "Les_signaux_sonores.jpg"
+                        },
+                        {
+                            "original": "Signal et information.jpg",
+                            "new": "Signal_et_information.jpg"
+                        }
+                    ]
+                }
+            }
         }
     },
     "annales": {
-        "Francais": [
-            "2015_Corrigé.pdf",
-            "2015.pdf",
-            "2016_Corrigé.pdf",
-            "2016.pdf",
-            "2017_Corrigé.pdf",
-            "2017.pdf",
-            "2018_Corrigé.pdf",
-            "2018.pdf",
-            "2019_Corrigé.pdf",
-            "2019.pdf",
-            "2021_Corrigé.pdf",
-            "2021.pdf",
-            "2022_Corrigé.pdf",
-            "2022.pdf",
-            "2023_Corrigé.pdf",
-            "2023.pdf"
-        ],
-        "Histoire-Géographie-EMC": [
-            "2015_Corrigé.pdf",
-            "2015.pdf",
-            "2016_Corrigé.pdf",
-            "2016.pdf",
-            "2017_Corrigé.pdf",
-            "2017.pdf",
-            "2018_Corrigé.pdf",
-            "2018.pdf",
-            "2019_Corrigé.pdf",
-            "2019.pdf",
-            "2021_Corrigé.pdf",
-            "2021.pdf",
-            "2022_Corrigé.pdf",
-            "2022.pdf",
-            "2023_Corrigé.pdf",
-            "2023.pdf"
-        ],
-        "Mathematique": [
-            "2015_Corrigé.pdf",
-            "2015.pdf",
-            "2016_Corrigé.pdf",
-            "2016.pdf",
-            "2017_Corrigé.pdf",
-            "2017.pdf",
-            "2018_Corrigé.pdf",
-            "2018.pdf",
-            "2019_Corrigé.pdf",
-            "2019.pdf",
-            "2021_Corrigé.pdf",
-            "2021.pdf",
-            "2022_Corrigé.pdf",
-            "2022.pdf",
-            "2023_Corrigé.pdf",
-            "2023.pdf"
-        ],
-        "Science": [
-            "2017_Corrigé.pdf",
-            "2017.pdf",
-            "2021_Corrigé.pdf",
-            "2021.pdf",
-            "2022_Corrigé.pdf",
-            "2022.pdf",
-            "2023_Corrigé.pdf",
-            "2023.pdf"
-        ]
+        "Francais": {
+            "original": "Francais",
+            "new": "Francais",
+            "files": [
+                {
+                    "original": "2015 Corrigé.pdf",
+                    "new": "2015_Corrigé.pdf"
+                },
+                {
+                    "original": "2015.pdf",
+                    "new": "2015.pdf"
+                },
+                {
+                    "original": "2016 Corrigé.pdf",
+                    "new": "2016_Corrigé.pdf"
+                },
+                {
+                    "original": "2016.pdf",
+                    "new": "2016.pdf"
+                },
+                {
+                    "original": "2017 Corrigé.pdf",
+                    "new": "2017_Corrigé.pdf"
+                },
+                {
+                    "original": "2017.pdf",
+                    "new": "2017.pdf"
+                },
+                {
+                    "original": "2018 Corrigé.pdf",
+                    "new": "2018_Corrigé.pdf"
+                },
+                {
+                    "original": "2018.pdf",
+                    "new": "2018.pdf"
+                },
+                {
+                    "original": "2019 Corrigé.pdf",
+                    "new": "2019_Corrigé.pdf"
+                },
+                {
+                    "original": "2019.pdf",
+                    "new": "2019.pdf"
+                },
+                {
+                    "original": "2021 Corrigé.pdf",
+                    "new": "2021_Corrigé.pdf"
+                },
+                {
+                    "original": "2021.pdf",
+                    "new": "2021.pdf"
+                },
+                {
+                    "original": "2022 Corrigé.pdf",
+                    "new": "2022_Corrigé.pdf"
+                },
+                {
+                    "original": "2022.pdf",
+                    "new": "2022.pdf"
+                },
+                {
+                    "original": "2023 Corrigé.pdf",
+                    "new": "2023_Corrigé.pdf"
+                },
+                {
+                    "original": "2023.pdf",
+                    "new": "2023.pdf"
+                }
+            ]
+        },
+        "Histoire_Géographie_EMC": {
+            "original": "Histoire-Géographie-EMC",
+            "new": "Histoire_Géographie_EMC",
+            "files": [
+                {
+                    "original": "2015 Corrigé.pdf",
+                    "new": "2015_Corrigé.pdf"
+                },
+                {
+                    "original": "2015.pdf",
+                    "new": "2015.pdf"
+                },
+                {
+                    "original": "2016 Corrigé.pdf",
+                    "new": "2016_Corrigé.pdf"
+                },
+                {
+                    "original": "2016.pdf",
+                    "new": "2016.pdf"
+                },
+                {
+                    "original": "2017 Corrigé.pdf",
+                    "new": "2017_Corrigé.pdf"
+                },
+                {
+                    "original": "2017.pdf",
+                    "new": "2017.pdf"
+                },
+                {
+                    "original": "2018 Corrigé.pdf",
+                    "new": "2018_Corrigé.pdf"
+                },
+                {
+                    "original": "2018.pdf",
+                    "new": "2018.pdf"
+                },
+                {
+                    "original": "2019 Corrigé.pdf",
+                    "new": "2019_Corrigé.pdf"
+                },
+                {
+                    "original": "2019.pdf",
+                    "new": "2019.pdf"
+                },
+                {
+                    "original": "2021 Corrigé.pdf",
+                    "new": "2021_Corrigé.pdf"
+                },
+                {
+                    "original": "2021.pdf",
+                    "new": "2021.pdf"
+                },
+                {
+                    "original": "2022 Corrigé.pdf",
+                    "new": "2022_Corrigé.pdf"
+                },
+                {
+                    "original": "2022.pdf",
+                    "new": "2022.pdf"
+                },
+                {
+                    "original": "2023 Corrigé.pdf",
+                    "new": "2023_Corrigé.pdf"
+                },
+                {
+                    "original": "2023.pdf",
+                    "new": "2023.pdf"
+                }
+            ]
+        },
+        "Mathématique": {
+            "original": "Mathématique",
+            "new": "Mathématique",
+            "files": [
+                {
+                    "original": "2015 Corrigé.pdf",
+                    "new": "2015_Corrigé.pdf"
+                },
+                {
+                    "original": "2015.pdf",
+                    "new": "2015.pdf"
+                },
+                {
+                    "original": "2016 Corrigé.pdf",
+                    "new": "2016_Corrigé.pdf"
+                },
+                {
+                    "original": "2016.pdf",
+                    "new": "2016.pdf"
+                },
+                {
+                    "original": "2017 Corrigé.pdf",
+                    "new": "2017_Corrigé.pdf"
+                },
+                {
+                    "original": "2017.pdf",
+                    "new": "2017.pdf"
+                },
+                {
+                    "original": "2018 Corrigé.pdf",
+                    "new": "2018_Corrigé.pdf"
+                },
+                {
+                    "original": "2018.pdf",
+                    "new": "2018.pdf"
+                },
+                {
+                    "original": "2019 Corrigé.pdf",
+                    "new": "2019_Corrigé.pdf"
+                },
+                {
+                    "original": "2019.pdf",
+                    "new": "2019.pdf"
+                },
+                {
+                    "original": "2021 Corrigé.pdf",
+                    "new": "2021_Corrigé.pdf"
+                },
+                {
+                    "original": "2021.pdf",
+                    "new": "2021.pdf"
+                },
+                {
+                    "original": "2022 Corrigé.pdf",
+                    "new": "2022_Corrigé.pdf"
+                },
+                {
+                    "original": "2022.pdf",
+                    "new": "2022.pdf"
+                },
+                {
+                    "original": "2023 Corrigé.pdf",
+                    "new": "2023_Corrigé.pdf"
+                },
+                {
+                    "original": "2023.pdf",
+                    "new": "2023.pdf"
+                }
+            ]
+        },
+        "Science": {
+            "original": "Science",
+            "new": "Science",
+            "files": [
+                {
+                    "original": "2017 Corrigé.pdf",
+                    "new": "2017_Corrigé.pdf"
+                },
+                {
+                    "original": "2017.pdf",
+                    "new": "2017.pdf"
+                },
+                {
+                    "original": "2021 Corrigé.pdf",
+                    "new": "2021_Corrigé.pdf"
+                },
+                {
+                    "original": "2021.pdf",
+                    "new": "2021.pdf"
+                },
+                {
+                    "original": "2022 Corrigé.pdf",
+                    "new": "2022_Corrigé.pdf"
+                },
+                {
+                    "original": "2022.pdf",
+                    "new": "2022.pdf"
+                },
+                {
+                    "original": "2023 Corrigé.pdf",
+                    "new": "2023_Corrigé.pdf"
+                },
+                {
+                    "original": "2023.pdf",
+                    "new": "2023.pdf"
+                }
+            ]
+        }
     }
 }
