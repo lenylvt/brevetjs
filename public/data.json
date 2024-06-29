@@ -211,6 +211,20 @@
                             "new": "Laménagement_comme_réponse_aux_inégalités_territoriales.jpg"
                         },
                         {
+                            "original": "La politique de la ville.jpg",
+                            "new": "La_politique_de_la_ville.jpg"
+                        },
+                        {
+                            "original": "Les territoires ultra-marins français.jpg",
+                            "new": "Les_territoires_ultra_marins_français.jpg"
+                        }
+                    ]
+                },
+                "Chapitre_03___La_France_et_lUnion_europeenne": {
+                    "original": "Chapitre 03 - La France et l'Union européenne",
+                    "new": "Chapitre_03___La_France_et_lUnion_europeenne",
+                    "files": [
+                        {
                             "original": "L'Europe dans le monde.jpg",
                             "new": "LEurope_dans_le_monde.jpg"
                         },
@@ -223,16 +237,8 @@
                             "new": "La_France_dans_lUnion_européenne.jpg"
                         },
                         {
-                            "original": "La politique de la ville.jpg",
-                            "new": "La_politique_de_la_ville.jpg"
-                        },
-                        {
                             "original": "Les contrastes territoriaux à l’intérieur de l’Union européenne.jpg",
                             "new": "Les_contrastes_territoriaux_à_lintérieur_de_lUnion_européenne.jpg"
-                        },
-                        {
-                            "original": "Les territoires ultra-marins français.jpg",
-                            "new": "Les_territoires_ultra_marins_français.jpg"
                         }
                     ]
                 }
